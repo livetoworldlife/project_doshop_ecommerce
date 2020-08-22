@@ -16,7 +16,7 @@ function ProductScreen(props) {
     return () => {
       //
     }
-  }, [dispatch, selectedProductId])
+  }, [])
 
   //const product = data.products.find(x => x._id === props.match.params.id);
 
